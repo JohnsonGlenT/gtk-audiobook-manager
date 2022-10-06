@@ -1,0 +1,7 @@
+$name
+$path_to_src_directory
+$file1, $file2, ...
+$author_name
+$total_length
+$number_of_chapters
+$current_posistion
